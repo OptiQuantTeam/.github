@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Shin-Dev)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Shin-Dev&&bg_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 # Dockerfile latest Version  
