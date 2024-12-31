@@ -1,3 +1,6 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas-Shin-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Dockerfile latest Version  
 **최신 버전을 꼭 확인할 것!!**  
 **이미지 생성시 {imageName}:{version}을 주의하여 적을 것!!**
