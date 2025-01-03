@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Shin-Dev&&bg_color=FFFFFF&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=optiQuantTeam&&bg_color=FFFFFF&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 [![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=lafeat1&&bg_color=FFFFFF&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 [![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=Jxxhk107&&bg_color=FFFFFF&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
