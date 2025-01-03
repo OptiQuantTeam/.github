@@ -1,6 +1,3 @@
-[![Anurag's github stats](https://github-readme-activity-graph.vercel.app/graph?username=OptiQuantTeam&&bg_color=FFFFFF&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
-
 # Dockerfile latest Version  
 **최신 버전을 꼭 확인할 것!!**  
 **이미지 생성시 {imageName}:{version}을 주의하여 적을 것!!**
