@@ -2,10 +2,11 @@
 [![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafeat1)](https://github.com/anuraghazra/github-readme-stats)
 [![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jxxhk107)](https://github.com/anuraghazra/github-readme-stats)
 
-
+# git 변경사항 확인 명령어
+``` git status ```  
 # github에 파일 업로드 명령어
-``` git add <파일명> <파일명> ... ```  
-``` git commit -m "메시지" ```
+``` git add <파일명> <파일명> ... ``` --> **git add -A 입력시 모든 파일이 선택됨**  
+``` git commit -m "메시지" ```  
 ``` git push origin <branch Name> ```  
 # github에서 파일 다운로드 명령어
 ``` git pull origin <brabch Name> ```  
