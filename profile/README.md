@@ -2,6 +2,14 @@
 [![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafeat1)](https://github.com/anuraghazra/github-readme-stats)
 [![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jxxhk107)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# github에 파일 업로드 명령어
+``` git add <파일명> <파일명> ... ```  
+``` git commit -m "메시지" ```
+``` git push origin <branch Name> ```  
+# github에서 파일 다운로드 명령어
+``` git pull origin <brabch Name> ```  
+
 # Dockerfile latest Version  
 **최신 버전을 꼭 확인할 것!!**  
 **이미지 생성시 {imageName}:{version}을 주의하여 적을 것!!**
