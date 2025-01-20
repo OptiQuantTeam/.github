@@ -1,7 +1,3 @@
-[![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Shin-Dev)](https://github.com/anuraghazra/github-readme-stats)
-[![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=lafeat1)](https://github.com/anuraghazra/github-readme-stats)
-[![Username's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jxxhk107)](https://github.com/anuraghazra/github-readme-stats)
-
 # git 변경사항 확인 명령어
 ``` git status ```  
 # github에 파일 업로드 명령어
