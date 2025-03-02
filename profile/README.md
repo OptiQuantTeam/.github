@@ -1,17 +1,8 @@
-# git 변경사항 확인 명령어
-``` git status ```  
-# github에 파일 업로드 명령어
-``` git add <파일명> <파일명> ... ``` --> **git add -A 입력시 모든 파일이 선택됨**  
-``` git commit -m "메시지" ```  
-``` git push origin <branch Name> ```  
-# github에서 파일 다운로드 명령어
-``` git pull origin <brabch Name> ```  
-
 # Dockerfile latest Version  
 **최신 버전을 꼭 확인할 것!!**  
 **이미지 생성시 {imageName}:{version}을 주의하여 적을 것!!**
 ```
-AI         : v1.2   
+AI         : v1.2.1   
 Interface  : v1.1  
 Web Server : v1.1
 ```   
@@ -20,6 +11,11 @@ Web Server : v1.1
 
 
 ## AI
+>version : v1.2.1  
+>Update :  
+>- Date : 2025.03.02
+>- Deatails : nvidia GPU용 Docker 이미지 빌드 및 컨테이너 생성 추가    
+
 >version : v1.2  
 >Update :  
 >- Date : 2025.01.05
@@ -67,6 +63,17 @@ Web Server : v1.1
 
 <br/><br/>
 <br/><br/>
+
+
+# git 변경사항 확인 명령어
+``` git status ```  
+# github에 파일 업로드 명령어
+``` git add <파일명> <파일명> ... ``` --> **git add -A 입력시 모든 파일이 선택됨**  
+``` git commit -m "메시지" ```  
+``` git push origin <branch Name> ```  
+# github에서 파일 다운로드 명령어
+``` git pull origin <brabch Name> ```  
+
 
 # **Docker 명령어 정리**
 
