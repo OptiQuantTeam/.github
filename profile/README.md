@@ -3,8 +3,8 @@
 **이미지 생성시 {imageName}:{version}을 주의하여 적을 것!!**
 ```
 AI         : v1.2.1   
-Interface  : v1.1  
-Web Server : v2.1
+Trader     : v1.1.1  
+Web App    : v2.1
 ```   
   
 
@@ -34,36 +34,41 @@ Web Server : v2.1
 <br/><br/>
 
 ---
-## Interface
+## Trader
+>version : v1.1.1  
+>Update :  
+>- Date : 2025.03.02
+>- Deatails : Interface에서 Trader로 이름 변경  
+
 >version : v1.1  
 >Update :  
 >- Date : 2024.12.29
->- Deatails :  git clone 명령어로 repository의 파일을 다운 받을 수 있게 변경  
+>- Deatails : git clone 명령어로 repository의 파일을 다운 받을 수 있게 변경
 
 >version : v1.0  
 >Update :  
 >- Date : 2024.12.29
->- Deatails :  Interface 개발 환경 구축  
+>- Deatails : Interface 개발 환경 구축
 
 
 <br/><br/>
 
 ---
-## Web Server
+## Web App
 >version : v2.1  
 >Update :  
 >- Date : 2025.03.02
->- Deatails : Django에서 React로 프레임워크 변경
+>- Deatails : Django에서 React로 프레임워크 변경 및 WebApp으로 이름 변경  
 
 >version : v1.1  
 >Update :  
 >- Date : 2024.12.29
->- Deatails :  git clone 명령어로 repository의 파일을 다운 받을 수 있게 변경  
+>- Deatails : git clone 명령어로 repository의 파일을 다운 받을 수 있게 변경  
 
 >version : v1.0  
 >Update :  
 >- Date : 2024.12.29
->- Deatails :  Web Server 개발 환경 구축  
+>- Deatails : Web Server 개발 환경 구축  
 
 
 <br/><br/>
